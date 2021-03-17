@@ -1,5 +1,3 @@
-# Demand-Prediction-using-Multiple-Linear-Regression
-
 # Project Name: 
 Demand Prediction using Multiple Linear Regression
 # Description:
